@@ -1,6 +1,5 @@
 {
   "name": "flavian-yarn-default-none-pages-libsql",
-  "packageManager": "yarn@4.0.2",
   "dependencies": {
     "@prisma/adapter-pg": "5.9.0-dev.48",
     "@prisma/client": "5.9.0-dev.48",
