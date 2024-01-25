@@ -13,7 +13,7 @@
     "@types/pg": "^8.11.0",
     "tsx": "^4.7.0",
     "vercel": "^33.2.0",
-    "wrangler": "^3.24.0"
+    "wrangler": "https://prerelease-registry.devprod.cloudflare.dev/workers-sdk/runs/6711485115/npm-package-wrangler-2541"
   },
   "version": "1.0.0",
   "main": "index.js",
