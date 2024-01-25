@@ -9,7 +9,5 @@ export const onRequest = async (ctx) => {
 
   const res = await prisma.user.findMany();
 
-  console.log(res);
-
   return new Response(JSON.stringify(res, null, 2));
-}
+};
